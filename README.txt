@@ -88,6 +88,10 @@ To run the case studies in the Mediterranean, the input files from TSUMAPS-NEAM 
 
 To run the case studies in the M8.8 Maule case studies, the relative input files should be additionally downloaded. These data should in included in folder “LocalInput/cheese-chile”, and can be downloaded from the public repository figshare (https://figshare.com/). These data allow running the case study relative to the 2010 M8.8 Maule earthquake, as discussed in Selva et al. (2021).
 
+WARNING:
+Both Mediterranean and Chilean case studies may be installed in the same folder. However, if the domain has to be changed (from Med to Chile, or viceversa), Matlab memory should be cleared to force a new preLoad phase.
+
+
 ####################################
 #### MEDITERRANEAN EARTHQUAKES #####
 ####################################

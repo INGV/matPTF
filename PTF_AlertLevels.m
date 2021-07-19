@@ -17,9 +17,9 @@ function [AlertLevelsInfo] = PTF_AlertLevels(Settings,HazardCurves,POIInfo,Early
     AlertLevelsInfo = struct;
     AlertLevelsInfo.DMroundYN = false; 
     % Notation: Pr100 == Percentile 10   
-    AlertLevelsInfo.ALtype = {'Matrix','ENV','Pr010','Pr050','Pr100','Pr150','Pr200','Pr300','Pr500','Average','bestGuessScen'};   
+    AlertLevelsInfo.ALtype = {'Matrix','ENV','Pr010','Pr050','Pr100','Pr150','Pr200','Pr300','Pr400','Pr500','Average','bestGuessScen'};   
     AlertLevelsInfo.ALtypeName = {'Decision Matrix (DM)','Envelope (ENV)','Percetile 1','Percetile 5',...
-        'Percetile 10','Percetile 15','Percetile 20','Percetile 30','Percetile 50',...
+        'Percetile 10','Percetile 15','Percetile 20','Percetile 30','Percetile 40','Percetile 50',...
         'Average','Best Match Scenario (BMS)'}; 
     
     

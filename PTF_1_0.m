@@ -130,8 +130,8 @@ SettingsLambdaBSPS.regionsPerPS = LongTermInfo.SettingsLambdaBSPS.regionsPerPS;
 SettingsLambdaBSPS.Nz=size(SettingsLambdaBSPS.name_mesh,1);
 for i=1:SettingsLambdaBSPS.Nz
     if length(SettingsLambdaBSPS.name_mesh{i,1}) > 0
-       mesh_faces_file{i,1}=['LocalInput/' SettingsLambdaBSPS.name_mesh{i,1} 'faces_x16.dat'];
-       mesh_nodes_file{i,1}=['LocalInput/' SettingsLambdaBSPS.name_mesh{i,1} 'nodes_x16.dat'];
+       mesh_faces_file{i,1}=[SettingsLambdaBSPS.name_mesh{i,1} 'faces_x16.dat'];
+       mesh_nodes_file{i,1}=[SettingsLambdaBSPS.name_mesh{i,1} 'nodes_x16.dat'];
     
        mnodes{i,1}=load(mesh_nodes_file{i,1});
        mfaces{i,1}=load(mesh_faces_file{i,1});

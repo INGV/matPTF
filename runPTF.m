@@ -5,7 +5,7 @@
 %                          '2016_0125_gibraltar', '2016_1030_norcia','2017_0612_lesbo','2017_0720_kos-bodrum',
 %                          '2018_1025_zante','2019_0320_turkey','2019_0921_albania','2019_1126_albania', 
 %                          '2020_0502_crete','2020_1030_samos','2018_0000_neamwave17','2010_0227_maule';
-eqID = '2018_0000_neamwave17';
+eqID = '2016_1030_norcia';
 % select sigma for cutoff
 sigmaCutoff = 2.0; 
 

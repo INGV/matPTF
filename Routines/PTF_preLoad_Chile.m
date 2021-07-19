@@ -64,7 +64,7 @@ load([PreSettings.genInputFolder 'PSBarInfo'],'PSBarInfo');
 LongTermInfo.PSBarInfo = PSBarInfo;
 
 % Files for MESHES
-LongTermInfo.SettingsLambdaBSPS.name_mesh={'mesh/south-america_mesh_'};
+LongTermInfo.SettingsLambdaBSPS.name_mesh={[PreSettings.genInputFolder 'mesh/south-america_mesh_']};
 
 slip_magthr = 7.32;
 slip_nslip = 5;
