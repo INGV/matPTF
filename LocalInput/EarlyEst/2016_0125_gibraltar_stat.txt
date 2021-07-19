@@ -1,0 +1,11 @@
+2016_0125_0422_gibraltar_bh Version 5   -- 2016-01-25T04:19 540 -- 2016.01.25-04:22:01.31 Strait_of_Gibraltar -- Linee 1
+------------------
+Statistics: ExpectX -3.73162 Y 35.4483 Z 14.8687
+Loc(lat lon z): 35.448 -3.731 9.77
+CovXX 9.31463 XY -2.04433 XZ -0.388018 YY 21.6767 YZ 0.888481 ZZ 11.9178
+EllAz1 81.1951 Dip1 4.79033 Len1 5.62554 Az2 213.228 Dip2 82.8659 Len2 6.46803 Len3 8.831033e+00
+EllVol 2
+OriginUncertainty (68%)  latUnc 8.7475  lonUnc 5.73417  minHorUnc 4.54602  maxHorUnc 7.11434  azMaxHorUnc 170.849  vertUnc 6.48612
+ph_assoc ph_used: 57 54
+wp Percentiles(16, 50, 84): 6.281442 6.391477 6.538221
+

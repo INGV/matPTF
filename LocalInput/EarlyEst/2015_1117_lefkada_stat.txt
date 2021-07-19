@@ -1,0 +1,11 @@
+2015_1117_0710_lefkada_bh Version 5   -- 2015-11-17T07:09 480 -- 2015.11.17-07:10:10.28 Greece -- Linee 1
+------------------
+Statistics: ExpectX 20.5146 Y 38.8016 Z 17.8305
+Loc(lat lon z): 38.804 20.511 19.73
+CovXX 2.39196 XY 0.52256 XZ -0.183727 YY 4.69261 YZ 0.34835 ZZ 3.44598
+EllAz1 283.645 Dip1 -12.051 Len1 2.80238 Az2 237.086 Dip2 72.7517 Len2 3.48223 Len3 4.146515e+00
+EllVol 2
+OriginUncertainty (68%)  latUnc 4.07  lonUnc 2.90579  minHorUnc 2.28939  maxHorUnc 3.32463  azMaxHorUnc 12.2155  vertUnc 3.48774
+ph_assoc ph_used: 67 60
+wp Percentiles(16, 50, 84): 6.363333 6.528838 6.719873
+

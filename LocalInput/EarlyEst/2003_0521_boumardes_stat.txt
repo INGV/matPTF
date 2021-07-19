@@ -1,0 +1,10 @@
+2003_0521_1844_boumardes_bh Version 5   -- 2003-05-21T18:43 540 -- 2003.05.21-18:44:21.38 Northern_Algeria -- Linee 1
+------------------
+Statistics: ExpectX 3.64435 Y 36.8708 Z 14.0956
+Loc(lat lon z): 36.868 3.652 9.77
+CovXX 12.5101 XY 1.22462 XZ -0.500232 YY 16.8474 YZ 0.598099 ZZ 11.0985
+EllAz1 113.619 Dip1 65.4454 Len1 6.16863 Az2 282.259 Dip2 24.1289 Len2 6.63557 Len3 7.792755e+00
+EllVol 2
+OriginUncertainty (68%)  latUnc 7.71177  lonUnc 6.64535  minHorUnc 5.29461  maxHorUnc 6.28406  azMaxHorUnc 14.7265  vertUnc 6.2592
+ph_assoc ph_used: 44 42
+wp Percentiles(16, 50, 84): 6.752705 6.865380 6.984961

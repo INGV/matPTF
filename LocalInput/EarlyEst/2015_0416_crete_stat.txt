@@ -1,0 +1,11 @@
+2015_0416_1807_crete_greece_bh Version 5   -- 2015-04-16T18:05 600 -- 2015.04.16-18:07:44.51 Crete,_Greece -- Linee 1
+------------------
+Statistics: ExpectX 26.751 Y 35.1539 Z 15.0678
+Loc(lat lon z): 35.163 26.745 19.53
+CovXX 10.959 XY 3.53751 XZ 1.22437 YY 19.9244 YZ 2.46991 ZZ 11.5868
+EllAz1 105.508 Dip1 -14.9289 Len1 5.83306 Az2 332.475 Dip2 -68.6598 Len2 6.21779 Len3 8.788312e+00
+EllVol 2
+OriginUncertainty (68%)  latUnc 8.38648  lonUnc 6.21976  minHorUnc 4.73097  maxHorUnc 6.97494  azMaxHorUnc 19.1394  vertUnc 6.39541
+ph_assoc ph_used: 78 73
+wp Percentiles(16, 50, 84): 6.165538 6.304525 6.468723
+

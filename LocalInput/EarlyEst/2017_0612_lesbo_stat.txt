@@ -1,0 +1,11 @@
+2017_0612_1228_lesbo_bh Version 5   -- 2017-06-12T12:26 540 -- 2017.06.12-12:28:39.59 Aegean_Sea -- Linee 1
+------------------
+Statistics: ExpectX 26.3613 Y 38.8433 Z 14.6365
+Loc(lat lon z): 38.848 26.376 19.53
+CovXX 2.62722 XY 0.810987 XZ -0.956208 YY 1.82686 YZ -0.46714 ZZ 10.0085
+EllAz1 327.683 Dip1 -0.767725 Len1 2.15963 Az2 237.568 Dip2 -8.54786 Len2 3.23914 Len3 5.991414e+00
+EllVol 2
+OriginUncertainty (68%)  latUnc 2.53945  lonUnc 3.04534  minHorUnc 1.74419  maxHorUnc 2.68369  azMaxHorUnc 58.132  vertUnc 5.94392
+ph_assoc ph_used: 68 63
+wp Percentiles(16, 50, 84): 6.243013 6.508542 6.694069
+

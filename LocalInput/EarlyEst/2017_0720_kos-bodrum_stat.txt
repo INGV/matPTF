@@ -1,0 +1,11 @@
+2017_0720_2231_kos-bodrum_bh Version 5   -- 2017-07-20T22:29 540 -- 2017.07.20-22:31:12.27 Dodecanese_Islands,_Greece -- Linee 1
+------------------
+Statistics: ExpectX 27.439 Y 36.9146 Z 14.5457
+Loc(lat lon z): 36.918 27.444 9.77
+CovXX 11.19 XY 2.2969 XZ -0.819565 YY 17.4746 YZ 0.427332 ZZ 11.7283
+EllAz1 288.629 Dip1 -27.4076 Len1 5.93164 Az2 285.302 Dip2 62.5529 Len2 6.56178 Len3 8.021569e+00
+EllVol 2
+OriginUncertainty (68%)  latUnc 7.85401  lonUnc 6.28495  minHorUnc 4.9002  maxHorUnc 6.4743  azMaxHorUnc 18.0825  vertUnc 6.43434
+ph_assoc ph_used: 75 72
+wp Percentiles(16, 50, 84): 6.697485 6.861638 7.066429
+

@@ -1,0 +1,11 @@
+2020_0502_1251_crete_greece_bh Version 5   -- 2020-05-02T12:49:00 540 -- 2020.05.02-12:51:05.99 Crete,_Greece -- Linee 1
+------------------
+Statistics: ExpectX 25.7431 Y 34.2953 Z 14.2141
+Loc(lat lon z): 34.288 25.739 9.77
+CovXX 10.846 XY 1.22426 XZ 0.402946 YY 20.2901 YZ 0.716563 ZZ 11.185
+EllAz1 274.989 Dip1 27.3633 Len1 6.09674 Az2 106.329 Dip2 62.1729 Len2 6.31097 Len3 8.508535e+00
+EllVol 2
+OriginUncertainty (68%)  latUnc 8.4631  lonUnc 6.1876  minHorUnc 4.9585  maxHorUnc 6.85758  azMaxHorUnc 7.26737  vertUnc 6.28356
+ph_assoc ph_used: 48 48
+wp Percentiles(16, 50, 84): 6.503150 6.684506 6.765356
+

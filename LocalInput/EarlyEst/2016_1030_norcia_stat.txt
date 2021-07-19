@@ -1,0 +1,11 @@
+2016_1030_0640_norcia_bh Version 5   -- 2016-10-30T06:38 540 -- 2016.10.30-06:40:18.93 Central_Italy -- Linee 1
+------------------
+Statistics: ExpectX 13.1508 Y 42.8676 Z 10.3758
+Loc(lat lon z): 42.869 13.151 10.06
+CovXX 1.40619 XY 0.410143 XZ -0.00509674 YY 1.87361 YZ -0.0361472 ZZ 0.232912
+EllAz1 350.905 Dip1 88.6692 Len1 0.905162 Az2 300.132 Dip2 -0.841648 Len2 2.03057 Len3 2.730816e+00
+EllVol 2
+OriginUncertainty (68%)  latUnc 2.57174  lonUnc 2.22797  minHorUnc 1.63892  maxHorUnc 2.20397  azMaxHorUnc 30.1623  vertUnc 0.906741
+ph_assoc ph_used: 66 61
+wp Percentiles(16, 50, 84): 6.541006 6.717820 6.839470
+

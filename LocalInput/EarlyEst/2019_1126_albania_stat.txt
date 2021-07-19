@@ -1,0 +1,11 @@
+2019_1126_0254_albania_bh Version 5   -- 2019-11-26T02:52 540 -- 2019.11.26-02:54:12.53 Albania -- Linee 1
+------------------
+Statistics: ExpectX 19.5251 Y 41.3769 Z 14.6413
+Loc(lat lon z): 41.365 19.541 19.53
+CovXX 1.72568 XY 0.044612 XZ -0.265699 YY 2.19494 YZ 0.470394 ZZ 10.0752
+EllAz1 97.3929 Dip1 2.21806 Len1 2.45654 Az2 187.514 Dip2 3.12709 Len2 2.77081 Len3 5.974373e+00
+EllVol 2
+OriginUncertainty (68%)  latUnc 2.78355  lonUnc 2.46813  minHorUnc 1.98982  maxHorUnc 2.249  azMaxHorUnc 5.38284  vertUnc 5.96367
+ph_assoc ph_used: 61 56
+wp Percentiles(16, 50, 84): 6.364080 6.539944 6.721191
+

@@ -1,0 +1,11 @@
+2019_0320_0634_turkey_bh Version 5   -- 2019-03-20T06:32 600 -- 2019.03.20-06:34:29.64 Turkey -- Linee 1
+------------------
+Statistics: ExpectX 29.5044 Y 37.4449 Z 14.4348
+Loc(lat lon z): 37.438 29.500 9.77
+CovXX 12.2107 XY 2.8845 XZ 0.0266391 YY 16.4994 YZ 0.861416 ZZ 12.0938
+EllAz1 118.343 Dip1 15.0787 Len1 6.13516 Az2 90.6814 Dip2 -73.0808 Len2 6.53249 Len3 7.982726e+00
+EllVol 2
+OriginUncertainty (68%)  latUnc 7.63169  lonUnc 6.56534  minHorUnc 4.97492  maxHorUnc 6.42521  azMaxHorUnc 26.6864  vertUnc 6.53384
+ph_assoc ph_used: 44 37
+wp Percentiles(16, 50, 84): 5.556662 5.725979 5.919323
+
