@@ -86,7 +86,7 @@ All the input files for the scripts in matPTF are included in folder “LocalInp
 
 To run the case studies in the Mediterranean, the input files from TSUMAPS-NEAM project should be additionally downloaded. These data should in included in folder “LocalInput/med-tsumaps”, and can be downloaded from TSUMAPS-NEAM documentation website (http://www.tsumaps-neam.eu/documentation/). These data allow running all the case studies relative to Mediterranean earthquakes, as discussed in Selva et al. (2021). The same data can be used to run whatever else real or hypothetical earthquake originating within the Medirranean area. To do so, follow the instruction in section "MEDITERRANEAN EARTHQUAKES". input source files, 
 
-To run the case studies in the M8.8 Maule case studies, the relative input files should be additionally downloaded. These data should in included in folder “LocalInput/cheese-chile”, and can be downloaded from the public repository figshare (https://figshare.com/). These data allow running the case study relative to the 2010 M8.8 Maule earthquake, as discussed in Selva et al. (2021).
+To run the case studies in the M8.8 Maule case studies, the relative input files should be additionally downloaded. These data should in included in folder “LocalInput/cheese-chile”, and can be downloaded from the public repository https://figshare.com/s/58744d1e15d0acfd6f9f (DOI:10.6084/m9.figshare.15015132). These data allow running the case study relative to the 2010 M8.8 Maule earthquake, as discussed in Selva et al. (2021).
 
 WARNING:
 Both Mediterranean and Chilean case studies may be installed in the same folder. However, if the domain has to be changed (from Med to Chile, or viceversa), Matlab memory should be cleared to force a new preLoad phase.
