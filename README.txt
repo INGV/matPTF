@@ -1,8 +1,8 @@
-﻿README.TXT file for code matPTF, version 1.0
+README.TXT file for code matPTF, version 1.0
 date: 16/07/2021
 citation: 
-Selva, J., Lorito, S., Volpe, M., Romano, F., Tonini, R., Perfetti, P., Bernardi, F., Taroni, M., Scala, A., Babeyko, A., Løvholt, F., Gibbons, S.J., Macías, J., Castro, M.J., González-Vida, J.M., Sánchez-Linares, C., Bayraktar, H.B., Basili, R., Maesano, F.E., Tiberti, M.M., Mele, F., Piatanesi A., & Amato, A. Probabilistic tsunami forecasting for early warning. Nat Commun 12, 5677 (2021). https://doi.org/10.1038/s41467-021-25815-w
 
+Selva, J., Lorito, S., Volpe, M., Romano, F., Tonini, R., Perfetti, P., Bernardi, F., Taroni, M., Scala, A., Babeyko, A., Løvholt, F., Gibbons, S.J., Macías, J., Castro, M.J., González-Vida, J.M., Sánchez-Linares, C., Bayraktar, H.B., Basili, R., Maesano, F.E., Tiberti, M.M., Mele, F., Piatanesi A., & Amato, A. Probabilistic tsunami forecasting for early warning. Nat Commun 12, 5677 (2021). https://doi.org/10.1038/s41467-021-25815-w
 
 ##################
 #### RUN PTF #####
@@ -88,7 +88,7 @@ All the input files for the scripts in matPTF are included in folder “LocalInp
 
 To run the case studies in the Mediterranean, the input files from TSUMAPS-NEAM project should be additionally downloaded. These data should in included in folder “LocalInput/med-tsumaps”, and can be downloaded from TSUMAPS-NEAM documentation website (http://www.tsumaps-neam.eu/documentation/). These data allow running all the case studies relative to Mediterranean earthquakes, as discussed in Selva et al. (2021). The same data can be used to run whatever else real or hypothetical earthquake originating within the Medirranean area. To do so, follow the instruction in section "MEDITERRANEAN EARTHQUAKES". input source files, 
 
-To run the case studies in the M8.8 Maule case studies, the relative input files should be additionally downloaded. These data should in included in folder “LocalInput/cheese-chile”, and can be downloaded from the public repository https://figshare.com, DOI:10.6084/m9.figshare.15015132. These data allow running the case study relative to the 2010 M8.8 Maule earthquake, as discussed in Selva et al. (2021).
+To run the case studies in the M8.8 Maule case studies, the relative input files should be additionally downloaded. These data should in included in folder “LocalInput/cheese-chile”, and can be downloaded from the Figshare public repository "Data for: Probabilistic Tsunami Forecasting for Early Warning", available at https://doi.org/10.6084/m9.figshare.15015132 . These data allow running the case study relative to the 2010 M8.8 Maule earthquake, as discussed in Selva et al. (2021). The slip distribution for this case study have been produced by the code ANTI-FASc (Automatic Numerical Tsunami Initial conditions), available at https://github.com/antonioscalaunina/ANTI-FASc .
 
 WARNING:
 Both Mediterranean and Chilean case studies may be installed in the same folder. However, if the domain has to be changed (from Med to Chile, or viceversa), Matlab memory should be cleared to force a new preLoad phase.
@@ -103,4 +103,3 @@ To run a different case study, it is required:
 1) to define a Eq_ID to be used to run the codes;
 2) to create file named "Eq_ID_stat.txt" to define the uncertainty information from the seismic monitoring, which should be placed in folder "LocalInput/EarlyEst". Examples of such files are available through this Github. New files should be formatted in agreement with such files.
 3) to run the code, (see RUN PTF)
-
