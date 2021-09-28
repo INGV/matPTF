@@ -1,6 +1,8 @@
 ﻿README.TXT file for code matPTF, version 1.0
 date: 16/07/2021
-citation: ###
+citation: 
+Selva, J., Lorito, S., Volpe, M., Romano, F., Tonini, R., Perfetti, P., Bernardi, F., Taroni, M., Scala, A., Babeyko, A., Løvholt, F., Gibbons, S.J., Macías, J., Castro, M.J., González-Vida, J.M., Sánchez-Linares, C., Bayraktar, H.B., Basili, R., Maesano, F.E., Tiberti, M.M., Mele, F., Piatanesi A., & Amato, A. Probabilistic tsunami forecasting for early warning. Nat Commun 12, 5677 (2021). https://doi.org/10.1038/s41467-021-25815-w
+
 
 ##################
 #### RUN PTF #####
